@@ -20,3 +20,4 @@ This repository specifically focuses on documenting the design of the power subs
 - Datasheets: Contains the datasheets of all the ICs used.
 - KiCAD Design: Contains files related to the design of the circuit diagram and printed circuit board for the power module.
 - Production Files: Contains all production files required to order the PCB from JLCPCB
+- Project Description: This is the outline of the project given to us
